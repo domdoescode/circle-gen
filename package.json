@@ -1,0 +1,19 @@
+{
+  "name": "circle-gen",
+  "version": "1.0.0",
+  "description": "CircleCI config generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domudall/circle-gen.git"
+  },
+  "author": "Dom Udall <dom@connected-ventures.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domudall/circle-gen/issues"
+  },
+  "homepage": "https://github.com/domudall/circle-gen#readme"
+}
